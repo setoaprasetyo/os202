@@ -3,6 +3,10 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  10 L03 GitHub Related
 <<<<<<< HEAD
+<<<<<<< HEAD
 ZCZC W01  120 L01 Debian Stuffs
 =======
 >>>>>>> Create mylog.txt
+=======
+ZCZC W01  120 L01 Debian Stuffs
+>>>>>>> OS202 cbkadal UPDATE mylog.txt
