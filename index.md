@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 ---
 ---
+=======
+>>>>>>> git page edit
 [WEB](https://setoaprasetyo.github.io/os202/)<br>
 [GitHub](https://github.com/setoaprasetyo/os202/)
 
@@ -23,5 +26,8 @@
 * [Week 08](W08/)
 * [Week 09](W09/)
 * [Week 10](W10/)
+<<<<<<< HEAD
 ## [My Ranking](TXT/myrank.txt)
 ## [Script](TXT/myscript.sh)
+=======
+>>>>>>> git page edit
