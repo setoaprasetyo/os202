@@ -1,8 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 ---
 =======
 >>>>>>> git page edit
+=======
+---
+---
+>>>>>>> index upd
 [WEB](https://setoaprasetyo.github.io/os202/)<br>
 [GitHub](https://github.com/setoaprasetyo/os202/)
 
