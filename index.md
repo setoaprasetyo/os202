@@ -9,6 +9,8 @@
 
 ## [My Log](TXT/mylog.txt)
 <br>
+## [My Ranking](TXT/myrank.txt)
+## [Script](TXT/myscript.sh)
 <hr>
 <br>
 ## Operating Systems Weekly Top Ten List
@@ -23,5 +25,3 @@
 * [Week 08](W08/)
 * [Week 09](W09/)
 * [Week 10](W10/)
-## [My Ranking](TXT/myrank.txt)
-## [Script](TXT/myscript.sh)
